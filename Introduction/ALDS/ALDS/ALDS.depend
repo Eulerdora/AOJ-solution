@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1423318384 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_1_A.cpp
+	<iostream>
+	<algorithm>
+
+1423314598 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_1_D.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<limits>
+
+1423326803 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_1_C.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1424731216 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_2_A.cpp
+	<iostream>
+
+1424732642 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_2_B.cpp
+	<iostream>
+
+1424738032 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_2_C.cpp
+	<iostream>
+	<stdexcept>
+
+1424817111 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_2_D.cpp
+	<iostream>
+	<vector>
+
+1424823839 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_3_A.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdexcept>
+
+1424869039 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_3_B.cpp
+	<iostream>
+	<string>
+
+1424875761 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_3_C.cpp
+	<iostream>
+	<stdexcept>
+	<cstring>
+
+1424904704 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_3_D.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1424906414 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_4_A.cpp
+	<iostream>
+
+1424907225 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_4_B.cpp
+	<iostream>
+
+1424915453 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_4_C.cpp
+	<iostream>
+	<string>
+
+1424952230 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_4_D.cpp
+	<iostream>
+	<vector>
+
+1424963514 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_5_A.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1424967233 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_5_B.cpp
+	<iostream>
+
+1424968594 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_6_B.cpp
+	<iostream>
+	<algorithm>
+
+1424971696 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_6_C.cpp
+	<iostream>
+
+1424972640 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_6_A.cpp
+	<iostream>
+
+1424975858 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_5_D.cpp
+	<iostream>
+
+1424982338 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_7_A.cpp
+	<iostream>
+	<vector>
+
+1424989753 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_7_B.cpp
+	<iostream>
+
+1424990833 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_7_C.cpp
+	<iostream>
+
+1425002402 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_7_D.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1425038651 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_8_A.cpp
+	<iostream>
+
+1425039246 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_8_B.cpp
+	<iostream>
+
+1425047229 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_8_C.cpp
+	<iostream>
+
+1425055478 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_9_A.cpp
+	<iostream>
+
+1425069696 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_9_B.cpp
+	<iostream>
+
+1425070378 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_9_C.cpp
+	<iostream>
+	<cstring>
+
+1425123027 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_10_A.cpp
+	<iostream>
+
+1425127350 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_10_C.cpp
+	<iostream>
+	<vector>
+	<array>
+
+1425129208 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_10_B.cpp
+	<iostream>
+
+1425130345 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_11_A.cpp
+	<iostream>
+
+1425133017 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_11_B.cpp
+	<iostream>
+	<map>
+	<vector>
+
+1425139591 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_11_C.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1425142567 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_11_D.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1425150056 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_12_A.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1425157427 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_12_B.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1425165034 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_13_A.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1425174339 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_13_B.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<set>
+
+1425249857 source:/home/homulerdora/Works/Contest/AOJ/Introduction/ALDS/ALDS/1_13_C.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cmath>
+

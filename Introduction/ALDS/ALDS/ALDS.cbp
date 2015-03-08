@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ALDS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ALDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ALDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add option="-Wall" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="1_10_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_10_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_10_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_11_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_11_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_11_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_11_D.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_12_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_12_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_13_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_13_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_13_C.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="1_1_A.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_1_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_1_C.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_1_D.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_2_A.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_2_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_2_C.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_2_D.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_3_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_3_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_3_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_3_D.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_4_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_4_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_4_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_4_D.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_5_A.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_5_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_5_C.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_5_D.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_6_A.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_6_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_6_C.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_7_A.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_7_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_7_C.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_7_D.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_8_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_9_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_9_B.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_9_C.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
