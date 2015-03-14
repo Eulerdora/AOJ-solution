@@ -22,6 +22,8 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add option="-std=c++11" />
+					<Add option="-Wall" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -31,6 +33,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="1_1_A.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="1_1_B.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="1_1_C.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="1_1_D.cpp">
+			<Option target="Release" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
